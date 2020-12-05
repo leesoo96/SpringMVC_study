@@ -4,10 +4,11 @@
 <html>
 <head>
 <meta charset="UTF-8">
-<title>MyController</title>
+<title>GET</title>
 </head>
 <body>
-	contentsView.jsp! <br/>
-	id = ${id }
+	NAME : ${member.name} <br/>
+	ID : ${member.id } <br/>
+	PW : ${member.pw }
 </body>
 </html>

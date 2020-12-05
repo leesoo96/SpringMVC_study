@@ -4,10 +4,9 @@
 <html>
 <head>
 <meta charset="UTF-8">
-<title>MyController</title>
+<title>Insert title here</title>
 </head>
 <body>
-	contentsView.jsp! <br/>
-	id = ${id }
+	classMappingview.jsp!
 </body>
 </html>

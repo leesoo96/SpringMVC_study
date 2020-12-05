@@ -14,7 +14,7 @@ import org.springframework.web.bind.annotation.RequestMethod;
 /**
  * Handles requests for the application home page.
  */
-@Controller /* Dispatcher에서 전달된 요청을 처리한다 */
+@Controller /* Dispatcher에서 전달된 요청을 처리한다(로직 수행) */
 public class HomeController {
 	
 	private static final Logger logger = LoggerFactory.getLogger(HomeController.class);
