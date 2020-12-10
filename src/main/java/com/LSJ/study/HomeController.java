@@ -30,6 +30,6 @@ public class HomeController {
 		
 		model.addAttribute("serverTime", formattedDate );
 		
-		return "home"; /* home -> 뷰의 이름 */
+		return "home"; /* home => 뷰의 이름 */
 	}
 }

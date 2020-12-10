@@ -12,6 +12,6 @@ public class ClassMappingController {
 		return "/contents/classMappingview";
 		
 //		최종 요청 경로 : /contents + /classMappingview 
-//		=> /contents/classMappingview
+//		=> /contents/classMappingview 
 	}
 }
